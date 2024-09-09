@@ -1,0 +1,10 @@
+C:\Users\mirsa\Documents\AspDotNetLearn\ScrapingAndApi\ScrapingAndApi\bin\Debug\ScrapingAndApi.exe.config
+C:\Users\mirsa\Documents\AspDotNetLearn\ScrapingAndApi\ScrapingAndApi\bin\Debug\ScrapingAndApi.exe
+C:\Users\mirsa\Documents\AspDotNetLearn\ScrapingAndApi\ScrapingAndApi\bin\Debug\ScrapingAndApi.pdb
+C:\Users\mirsa\Documents\AspDotNetLearn\ScrapingAndApi\ScrapingAndApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mirsa\Documents\AspDotNetLearn\ScrapingAndApi\ScrapingAndApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mirsa\Documents\AspDotNetLearn\ScrapingAndApi\ScrapingAndApi\obj\Debug\ScrapingAndApi.csproj.AssemblyReference.cache
+C:\Users\mirsa\Documents\AspDotNetLearn\ScrapingAndApi\ScrapingAndApi\obj\Debug\ScrapingAndApi.csproj.CoreCompileInputs.cache
+C:\Users\mirsa\Documents\AspDotNetLearn\ScrapingAndApi\ScrapingAndApi\obj\Debug\Scraping.9329C083.Up2Date
+C:\Users\mirsa\Documents\AspDotNetLearn\ScrapingAndApi\ScrapingAndApi\obj\Debug\ScrapingAndApi.exe
+C:\Users\mirsa\Documents\AspDotNetLearn\ScrapingAndApi\ScrapingAndApi\obj\Debug\ScrapingAndApi.pdb
